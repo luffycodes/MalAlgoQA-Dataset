@@ -1,6 +1,6 @@
-# MalAlgoQA: A Pedagogical Approach for Evaluating Counterfactual Reasoning Abilities
+# MalAlgoQA: A Pedagogical Approach for Evaluating Counterfactual Reasoning Abilities (Accepted at EMNLP 2024)
 
-This repository contains code and dataset for the EMNLP 2024 paper: [MalAlgoQA: A Pedagogical Approach for Evaluating Counterfactual Reasoning Abilities
+This repository contains code and dataset for the paper: [MalAlgoQA: A Pedagogical Approach for Evaluating Counterfactual Reasoning Abilities
 ](https://www.arxiv.org/abs/2407.00938).
 
 ## Request for Data
