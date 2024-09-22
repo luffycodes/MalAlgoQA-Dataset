@@ -4,7 +4,7 @@ This repository contains code and dataset for the paper: [MalAlgoQA: A Pedagogic
 ](https://www.arxiv.org/abs/2407.00938).
 
 ## Request for Data
-Please fill out this [google form](https://forms.gle/D6ayHHrZFQWUApaM8) to request the RiceChem dataset.
+Please fill out this [google form](https://forms.gle/D6ayHHrZFQWUApaM8) to request the MalAlgoQA dataset.
 
 If you use the dataset please add the citation:
 
