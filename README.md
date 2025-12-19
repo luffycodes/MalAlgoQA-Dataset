@@ -9,13 +9,11 @@ Please fill out this [google form](https://forms.gle/D6ayHHrZFQWUApaM8) to reque
 If you use the dataset please add the citation:
 
 ```
-@misc{liu2024malalgoqa,
-      title={MalAlgoQA: A Pedagogical Approach for Evaluating Counterfactual Reasoning Abilities}, 
-      author={Naiming Liu and Shashank Sonkar and Myco Le and Richard Baraniuk},
-      year={2024},
-      eprint={2407.00938},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.00938}, 
+@inproceedings{sonkar2024malalgoqa,
+  title={Malalgoqa: Pedagogical evaluation of counterfactual reasoning in large language models and implications for ai in education},
+  author={Sonkar, Shashank and Liu, Naiming and Le, MyCo and Baraniuk, Richard},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages={15554--15567},
+  year={2024}
 }
 ```
